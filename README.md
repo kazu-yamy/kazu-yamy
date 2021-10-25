@@ -1,4 +1,4 @@
- # I am the second year student of the Department of Information & communication Systems Engineering at National Institute of Technology, Okinawa College.
+ # National Institute of Technology, Okinawa College. (Student)
 
 <!--
 **kazu-yamy/kazu-yamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
