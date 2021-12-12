@@ -5,9 +5,8 @@
         <img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" alt="Kazuki_yamy0125">
     </a>
 </p>
-<p>
-    <a>
-        <img  align="left", src="https://github-readme-stats.vercel.app/api?username=kazu-yamy&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight">
-        <img  align="right", src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-yamy&layout=compact&theme=tokyonight">
-    </a>
-</p>
+
+<a href="https://github.com/kazu-yamy">
+    <img  align="left", src="https://github-readme-stats.vercel.app/api?username=kazu-yamy&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight">
+    <img  align="left", src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-yamy&layout=compact&theme=tokyonight">
+</a>
