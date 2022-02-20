@@ -1,4 +1,4 @@
- ## National Institute of Technology, Okinawa College. (Student)
+ ## National Institute of Technology, Okinawa College. (STUDENT) 
 
  <p align="center">
     <a>
