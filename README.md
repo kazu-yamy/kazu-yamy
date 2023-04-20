@@ -1,7 +1,5 @@
- ## National Institute of Technology, Okinawa College. (STUDENT) 
-
 <h1 align="center">Hi 👋, I'm Kazuki Aishima</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">National Institute of Technology, Okinawa College. (STUDENT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazu-yamy&label=Profile%20views&color=0e75b6&style=flat" alt="kazu-yamy" /> </p>
 
@@ -15,4 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazu-yamy&show_icons=true&locale=en&layout=compact" alt="kazu-yamy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazu-yamy&show_icons=true&locale=en" alt="kazu-yamy" /></p>
-
